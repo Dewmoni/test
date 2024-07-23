@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(170, 249, 255, 0.452);
+    color: black;
+    font-size: 21px;
+}
+
+
+p {
+    color: rgb(158, 70, 114);
+}
+
+
+h1 {
+    font-size: 90px;
+    font-family: monospace;
+    color: sandybrown;
+}
+
+
+div {
+    background-color: pink;
+    width: 500px;
+}
+
+.box {
+    background-image: ../logo mock up 1.jpeg;
+    padding: 100px;
+    margin: 200px;
+}
+
+span {
+    color: chocolate;
+    font-family: cursive;
+    font-size: 21px;
+}
+
+
